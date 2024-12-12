@@ -26,7 +26,6 @@ I'm a passionate software developer and trainee in JavaScript, currently focused
 
 ### 📫 Connect with Me
 - **GitHub**: [makaliansoft](https://github.com/makaliansoft)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/) _(Update with your link)_
 - **Email**: manav.kaneria@aliansoftware.com
 
 ### 💡 Fun Fact
