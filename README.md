@@ -11,6 +11,8 @@ I'm a passionate software developer and trainee in JavaScript, currently focused
 
 ### 🔨 Tech Stack
 - **Languages**: JavaScript, HTML, CSS
+- **Frameworks**: React, Vue.js, Node.js
+- **Database**: MongoDB, MySQL, MsSQL
 - **Tools**: Git, GitHub, Visual Studio Code
 - **Interests**: Web Development, Node.js, Front-end/Back-end Integration
 
